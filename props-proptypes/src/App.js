@@ -23,6 +23,8 @@ function App() {
       </header>
     </div>
     <Navbar/>
+
+    <heading>Heading</heading>
     </>
   );
 }
